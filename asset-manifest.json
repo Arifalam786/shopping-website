@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping-website/static/css/main.fec2cf0a.css",
+    "main.js": "/shopping-website/static/js/main.ef4029e6.js",
+    "static/js/787.98b15c29.chunk.js": "/shopping-website/static/js/787.98b15c29.chunk.js",
+    "static/media/blue.png": "/shopping-website/static/media/blue.3bc99218fb308c577698.png",
+    "static/media/PhonePe.png": "/shopping-website/static/media/PhonePe.7238eb2c26bfa579d60d.png",
+    "static/media/fed.png": "/shopping-website/static/media/fed.512cc6aea4b6523a147b.png",
+    "static/media/img.jpg": "/shopping-website/static/media/img.1eb13eefd9eb1c30d382.jpg",
+    "static/media/discover.png": "/shopping-website/static/media/discover.b3c98f580214aa9dd700.png",
+    "static/media/google-pay.png": "/shopping-website/static/media/google-pay.f6875d0f4df6e0ae4a6d.png",
+    "static/media/paypal.png": "/shopping-website/static/media/paypal.ae62fa3dec7db39289ea.png",
+    "static/media/inpost-logo.png": "/shopping-website/static/media/inpost-logo.27d17e320b37b242611a.png",
+    "index.html": "/shopping-website/index.html",
+    "main.fec2cf0a.css.map": "/shopping-website/static/css/main.fec2cf0a.css.map",
+    "main.ef4029e6.js.map": "/shopping-website/static/js/main.ef4029e6.js.map",
+    "787.98b15c29.chunk.js.map": "/shopping-website/static/js/787.98b15c29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec2cf0a.css",
+    "static/js/main.ef4029e6.js"
+  ]
+}
